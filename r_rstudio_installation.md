@@ -44,12 +44,10 @@ RStudio is available in open source and commercial editions and runs on the desk
 1. Open up the following link in a new tab on your browser: 
 [https://rstudio.com/products/rstudio/download/](https://rstudio.com/products/rstudio/download/)
 
-2. Download the free version of RStudio Desktop by clicking "DOWNLOAD."
-
+2. Download the free version of RStudio Desktop by clicking "DOWNLOAD."  
 <img align="center" src='https://www.leonshpaner.com/teaching/post/rstudio/rstudio_download.png'>
 
-3. Click the version recommended for your system or the latest Windows version.
-
+3. Click the version recommended for your system or the latest Windows version.  
 <img align="center" src='https://www.leonshpaner.com/teaching/post/rstudio/rstudio_download_windows.png'>
 
 &nbsp;
