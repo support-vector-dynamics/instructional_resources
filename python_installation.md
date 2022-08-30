@@ -27,13 +27,13 @@ If you have not already, install Anaconda Distribution on your local machine. Th
 <img align="center" src='https://www.leonshpaner.com/teaching/post/python/anaconda_installation2.png'>
 <img align="center" src='https://www.leonshpaner.com/teaching/post/python/anaconda_installation3.png'>
 <img align="center" src='https://www.leonshpaner.com/teaching/post/python/anaconda_installation4.png'>
-    * Leave both options unchecked. Continue to install in your home directory. Don’t worry if it takes a few minutes to complete the installation process.  
+4.  Leave both options unchecked. Continue to install in your home directory. Don’t worry if it takes a few minutes to complete the installation process.  
 <img align="center" src='https://www.leonshpaner.com/teaching/post/python/anaconda_installation5.png'>
 
-4. Click on the `Start` button and start typing "Anaconda." Click on `Anaconda Navigator.` 
+5. Click on the `Start` button and start typing "Anaconda." Click on `Anaconda Navigator.` 
 <img align="center" src='https://www.leonshpaner.com/teaching/post/python/anaconda_installation6.png'>
 
-5. Launch JupyterLab. JupyterLab will open in your default web browser as a new tab. For more info on JupyterLab and Jupyter Notebooks, visit https://www.jupyter.org.   
+6. Launch JupyterLab. JupyterLab will open in your default web browser as a new tab. For more info on JupyterLab and Jupyter Notebooks, visit https://www.jupyter.org.   
 <img align="center" src='https://www.leonshpaner.com/teaching/post/python/anaconda_installation7.png'>
 
 **Reference**  
