@@ -34,7 +34,7 @@ If you have not already, install Anaconda Distribution on your local machine. Th
 <img align="center" src='https://www.leonshpaner.com/teaching/post/python/anaconda_installation6.png'>
 
 5. Launch JupyterLab. JupyterLab will open in your default web browser as a new tab. For more info on JupyterLab and Jupyter Notebooks, visit https://www.jupyter.org.   
-<img align="center" src='https://www.leonshpaner.com/teaching/post/python/anaconda_installation7.png''>
+<img align="center" src='https://www.leonshpaner.com/teaching/post/python/anaconda_installation7.png'>
 
 **Reference**  
 *Data science technology for a better world.* (n.d.). Anaconda. Retrieved August 30, 2022, from https://www.anaconda.com/
