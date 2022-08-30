@@ -46,26 +46,7 @@ RStudio is available in open source and commercial editions and runs on the desk
 
 2. Download the free version of RStudio Desktop by clicking "DOWNLOAD."
 
-<img align="left" src='https://www.leonshpaner.com/teaching/post/rstudio/rstudio_download.png'>
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</br>
-
+<img align="center" src='https://www.leonshpaner.com/teaching/post/rstudio/rstudio_download.png'>
 
 3. Click the version recommended for your system or the latest Windows version.
 
@@ -97,23 +78,7 @@ RStudio is available in open source and commercial editions and runs on the desk
 
 2. Download the free version of RStudio Desktop by clocking "DOWNLOAD."
 
-<img align="left" src='https://www.leonshpaner.com/teaching/post/rstudio/rstudio_download.png'>
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</br>
-
+<img align="center" src='https://www.leonshpaner.com/teaching/post/rstudio/rstudio_download.png'>
 
 3. Click on the version that is recommended for your system.
 
@@ -129,4 +94,4 @@ RStudio is available in open source and commercial editions and runs on the desk
 <img src = "https://www.leonshpaner.com/teaching/post/rstudio/rstudio_workspace.png">
 
 **Reference**  
-*Take control of your R code* (n.d.). RStudio. Retrieved August 29, 2022, from https://www.rstudio.com/products/rstudio/
+*Take control of your R code.* (n.d.). RStudio. Retrieved August 29, 2022, from https://www.rstudio.com/products/rstudio/
