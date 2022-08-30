@@ -11,8 +11,6 @@
     * [Steps for Installing R: Mac Users](#steps-for-installing-r-mac-users)  
     * [Steps for Installing RStudio: Mac Users](#steps-for-installing-rstudio-mac-users)  
 
-## II. [GitHub Repository](https://github.com/support-vector-dynamics/documentation)
-
 &nbsp;
 &nbsp; 
 
