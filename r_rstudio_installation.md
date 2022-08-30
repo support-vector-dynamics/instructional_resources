@@ -3,7 +3,7 @@
 >This document explains how to access and download the installation files for the R programming language and RStudio Integrated Development Environment (IDE).
 
 ## Table of Contents
-## I. Installations
+## Installations
 1) Windows Installations
     * [Steps for Installing R: Windows (PC) Users](#steps-for-installing-r-windows-pc-users)  
     * [Steps for Installing RStudio: Windows (PC) Users](#steps-for-installing-rstudio-windows-pc-users)  
