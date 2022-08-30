@@ -19,14 +19,17 @@ To use this project, first clone the repo on your device using the commands belo
 
 # Table of Contents
 --------
-1. [Technologies](#technologies)  
-2. [License](#license)  
+1. [License](#license)  
+2. [Documentation Table](#documentation-table)
 3. [acknowledgements](#acknowledgements)  
 --------
 
-### Technologies  
-* Python
-* R
+## Documentation Table
+
+| **Documentation**        |**Description**                                                                                                                                      |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| R + RStudio Installation |This document explains how to access and download the installation files for the R  programming language and RStudio Integrated Development          |
+                            Environment (IDE). 
 
 ## License
 
