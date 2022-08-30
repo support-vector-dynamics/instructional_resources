@@ -19,9 +19,9 @@ To use this project, first clone the repo on your device using the commands belo
 
 # Table of Contents
 --------
-[Technologies](###technologies)  
-[License](###license)  
-[acknowledgements](###acknowledgements)  
+1. [Technologies](#technologies)  
+2. [License](#license)  
+3. [acknowledgements](#acknowledgements)  
 --------
 
 ### Technologies  
