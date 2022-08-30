@@ -128,5 +128,5 @@ RStudio is available in open source and commercial editions and runs on the desk
 
 <img src = "https://www.leonshpaner.com/teaching/post/rstudio/rstudio_workspace.png">
 
-**Reference**
+**Reference**  
 *Take control of your R code* (n.d.). RStudio. Retrieved August 29, 2022, from https://www.rstudio.com/products/rstudio/
