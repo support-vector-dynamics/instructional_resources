@@ -29,7 +29,7 @@ To use this project, first clone the repo on your device using the commands belo
 | **Documentation**        |**Description**                                                                                                                                      |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | R + RStudio Installation |This document explains how to access and download the installation files for the R  programming language and RStudio Integrated Development          |
-                            Environment (IDE). 
+|                          | Environment (IDE).                                                                                                                                  |
 
 ## License
 
