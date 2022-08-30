@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
-profimages/
+.profimages/
 
 # Jupyter Notebook
 .ipynb_checkpoints
