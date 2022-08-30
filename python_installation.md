@@ -33,7 +33,7 @@ If you have not already, install Anaconda Distribution on your local machine. Th
 4. Click on the `Start` button and start typing "Anaconda." Click on `Anaconda Navigator.` 
 <img align="center" src='https://www.leonshpaner.com/teaching/post/python/anaconda_installation6.png'>
 
-5. Launch JupyterLab. JupyterLab will open in your default web browser as a new tab. For more info on JupyterLab and Jupyter Notebooks, visit https://www.jupyter.org. 
+5. Launch JupyterLab. JupyterLab will open in your default web browser as a new tab. For more info on JupyterLab and Jupyter Notebooks, visit https://www.jupyter.org.   
 <img align="center" src='https://www.leonshpaner.com/teaching/post/python/anaconda_installation7.png''>
 
 **Reference**  
