@@ -49,8 +49,8 @@ If you have not already, install Anaconda Distribution on your local machine. Th
 4. Type `Command`+`Space` and start typing "Anaconda." Click on `Anaconda Navigator.` 
 <img align="center" src='"https://github.com/support-vector-dynamics/documentation/blob/main/mac_installation_imgs/Navigate_to_Anaconda.png?raw=true"'>
 
-6. Launch JupyterLab. JupyterLab will open in your default web browser as a new tab. For more info on JupyterLab and Jupyter Notebooks, visit https://www.jupyter.org.   
-<img align="center" src='"https://github.com/support-vector-dynamics/documentation/blob/main/mac_installation_imgs/Navigator.png?raw=true"'>
+5. Launch JupyterLab. JupyterLab will open in your default web browser as a new tab. For more info on JupyterLab and Jupyter Notebooks, visit https://www.jupyter.org.   
+<img align="center" src='"https://github.com/support-vector-dynamics/documentation/mac_installation_imgs/Navigator.png?raw=true"'>
 
 **Reference**  
 *Data science technology for a better world.* (n.d.). Anaconda. Retrieved August 30, 2022, from https://www.anaconda.com/
