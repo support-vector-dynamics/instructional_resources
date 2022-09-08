@@ -6,7 +6,7 @@
 1) Windows Installation
     * [Steps for Installing Python: Windows (PC) Users](#installing-anaconda-and-configuring-jupyterlab-on-windows)  
 2) Mac Installation
-    * [Steps for Installing Python: Mac Users]()
+    * [Steps for Installing Python: Mac Users](#installing-anaconda-and-configuring-jupyterlab-on-mac)
 
 ## II. [GitHub Repository](https://github.com/lshpaner/teaching)
 
