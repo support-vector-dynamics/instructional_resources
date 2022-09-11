@@ -26,7 +26,6 @@ To use this project, first clone the repo on your device using the commands belo
 </br>
 </br>  
 </br>  
-</br>  
 
 # Table of Contents
 --------
