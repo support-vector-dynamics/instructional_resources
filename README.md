@@ -20,7 +20,9 @@ To use this project, first clone the repo on your device using the commands belo
 <img align="left" width="150" height="150" src="https://github.com/support-vector-dynamics/documentation/blob/main/proimages/munger_dallin.jpg?raw=true">
 
 [Dallin Munger](https://github.com/dmunger27) is a Data Analyst at Snap Finance and a Freelance Data Scientist. He has experience working on projects related to deep learning, time series forecasting, and predictive analytics. He is an instructor for the Statistics in Python course for the University of San Diego’s M.S. Applied Artificial Intelligence program.
-
+&nbsp;
+&nbsp;
+</br>
 # Table of Contents
 --------
 1. [License](#license)  
