@@ -24,6 +24,8 @@ To use this project, first clone the repo on your device using the commands belo
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 </br>
+</br>  
+
 # Table of Contents
 --------
 1. [License](#license)  
