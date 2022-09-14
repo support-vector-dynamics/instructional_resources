@@ -43,9 +43,9 @@ To use this project, first clone the repo on your device using the commands belo
 
 ## Datasets
 
-| **Dataset**                                                                                                                                   | **Description**                                        |   |
-|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|---|
-| [San Diego Real Estate Data](https://github.com/support-vector-dynamics/instructional_resources/blob/main/datasets/redfin_2022_san_diego.csv) | Sample of Redfin Real Estate Data for San Diego County |   |
+| **Dataset**                                                                                                                                   | **Description**                                        |
+|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| [San Diego Real Estate Data](https://github.com/support-vector-dynamics/instructional_resources/blob/main/datasets/redfin_2022_san_diego.csv) | Sample of Redfin Real Estate Data for San Diego County |
 
 ## License
 
