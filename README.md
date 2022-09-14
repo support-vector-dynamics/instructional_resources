@@ -1,6 +1,6 @@
-# Documentation
+# Indstructional Resources
 
-This repository is a hub for a wide variety of code-based documentation.
+This repository is a hub for a wide variety of code-based instructional resources.
 
 ## Installation
 
