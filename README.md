@@ -1,4 +1,4 @@
-# Indstructional Resources
+# Instructional Resources
 
 This repository is a hub for a wide variety of code-based instructional resources.
 
