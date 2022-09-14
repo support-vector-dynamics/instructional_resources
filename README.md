@@ -30,11 +30,12 @@ To use this project, first clone the repo on your device using the commands belo
 # Table of Contents
 --------
 1. [License](#license)  
-2. [Documentation Table](#documentation-table)
-3. [acknowledgements](#acknowledgements)  
+2. [Documentation](#documentation-table)
+3. [Datasets](#datasets)
+4. [acknowledgements](#acknowledgements)  
 --------
 
-## Documentation Table
+## Documentation
 
 | **Documentation**        |**Description**                                                                                                                                      |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -45,7 +46,7 @@ To use this project, first clone the repo on your device using the commands belo
 
 | **Dataset**                                                                                                                                   | **Description**                                        |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
-| [San Diego Real Estate Data](https://github.com/support-vector-dynamics/instructional_resources/blob/main/datasets/redfin_2022_san_diego.csv) | Sample of Redfin Real Estate Data for San Diego County |
+| [San Diego Real Estate Data](https://github.com/support-vector-dynamics/instructional_resources/blob/main/datasets/redfin_2022_san_diego.csv) | Sample of Redfin Real Estate data for San Diego County - September 2022|
 
 ## License
 
