@@ -41,6 +41,12 @@ To use this project, first clone the repo on your device using the commands belo
 |[R + RStudio Installation](https://github.com/support-vector-dynamics/instructional_resources/blob/main/documentation/r_rstudio_installation.md)|This document explains how to access and download the installation files for the R  programming language and RStudio Integrated Development Environment (IDE)   
 |[Python Installation](https://github.com/support-vector-dynamics/instructional_resources/blob/main/documentation/python_installation.md)|This document explains how to access and download the installation file for the Python programming language from the Anaconda Distribution.                                                                                                                                       |                                                                                                                                   |
 
+## Datasets
+
+| **Dataset**                                                                                                                                   | **Description**                                        |   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|---|
+| [San Diego Real Estate Data](https://github.com/support-vector-dynamics/instructional_resources/blob/main/datasets/redfin_2022_san_diego.csv) | Sample of Redfin Real Estate Data for San Diego County |   |
+
 ## License
 
 Copyright (c) 2022, Leonid Shpaner and Dallin Munger.
