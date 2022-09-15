@@ -47,7 +47,9 @@ To use this project, first clone the repo on your device using the commands belo
 |**Dataset**              |**Description**                                                                                                                                       |
 |:------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [San Diego Real Estate Data](https://github.com/support-vector-dynamics/instructional_resources/blob/main/datasets/redfin_2022_san_diego.csv) | Sample Real Estate data from Redfin for San Diego County (*updated September 2022*)                                                                                                                                      |
- 
+| [Car Price Prediction](https://github.com/support-vector-dynamics/instructional_resources/blob/main/datasets/car_price_prediction.csv)  | has data related car sales           |
+| [NYC Temperature](https://github.com/support-vector-dynamics/instructional_resources/blob/main/datasets/nyc_temperature.csv) | contains data related to weather in NYC         |  
+
 --------
 ## License
 
