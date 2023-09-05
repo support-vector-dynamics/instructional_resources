@@ -36,7 +36,7 @@ If you have not already, install Anaconda Distribution on your local machine. Th
 <img align="center" src='https://www.leonshpaner.com/teaching/post/python/python_anaconda_installation/anaconda_installation6.png'>
 
 6. Launch JupyterLab. JupyterLab will open in your default web browser as a new tab. For more info on JupyterLab and Jupyter Notebooks, visit https://www.jupyter.org.   
-<img align="center" src='https://www.leonshpaner.com/teaching/post/python/python_anaconda_installation/anaconda_installation7.png'>
+<img align="center" src='https://www.leonshpaner.com/teaching/post/python/navigating_jupyter/anaconda_installation7.png'>
 
 ## Installing Anaconda and Configuring JupyterLab on Mac
 1. Navigate to https://www.anaconda.com/products/distribution in your web browser.  
