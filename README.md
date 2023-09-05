@@ -59,7 +59,7 @@ Renowned for his deep understanding of analytics and his ability to break down c
 --------
 ## License
 
-Copyright (c) 2022, Leonid Shpaner and Dallin Munger.
+Copyright (c) 2023, Leonid Shpaner and Dallin Munger.
 
 All source code and software in this repository are made available under the terms of the MIT license.
 
