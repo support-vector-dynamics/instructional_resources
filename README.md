@@ -14,7 +14,13 @@ To use this project, first clone the repo on your device using the commands belo
 
 <img align="left" width="150" height="150" src="https://github.com/support-vector-dynamics/documentation/blob/main/proimages/shpaner_leonid.jpg?raw=true">
 
-[Leonid Shpaner](https://github.com/lshpaner) is a Data Scientist at The Laura P. and Leland K. Whittier Virtual PICU at Children’s Hospital Los Angeles (CHLA). With over 10 years’ experience in analytics and teaching, he has collaborated on a wide variety of projects within financial services, education, personal development, and healthcare. He serves as a course facilitator for Data Analytics and Applied Statistics at Cornell University and is an adjunct professor for the Statistics in Python course for the University of San Diego’s M.S. Applied Artificial Intelligence program.
+[Leonid Shpaner](https://github.com/lshpaner), whose work can be further explored at LeonShpaner.com, is a seasoned data scientist with over a decade of experience in analytics. He currently applies his expertise in the healthcare sector, crafting machine learning algorithms to predict critical health conditions. Concurrently, Leon is an adjunct professor and lecturer at several institutions, including Cornell University, where he specializes in data analytics and statistics.
+
+His substantial contributions to the healthcare field include the development of machine learning algorithms for predicting mortality in the Intensive Care Units (ICU) and pioneering machine learning models that predict end-stage kidney disease. These advanced predictive algorithms showcase his proficiency and dedication to utilizing data to tackle healthcare challenges.
+
+Beyond healthcare, Leon’s versatile analytics skills have proven crucial across various industries such as financial services, education, and personal development. His work offers vital insights into corporate risk assessments, sales forecasts, and growth predictions, empowering businesses to make informed, data-driven decisions.
+
+Renowned for his deep understanding of analytics and his ability to break down complex statistical concepts for his students, Leon is a respected figure in both the professional and academic domains.
 
 
 <img align="left" width="150" height="150" src="https://github.com/support-vector-dynamics/documentation/blob/main/proimages/munger_dallin.jpg?raw=true">
